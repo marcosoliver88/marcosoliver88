@@ -5,6 +5,7 @@ Olá, sou Marcos Vinicius da Silva Oliveira
 Sou um programador em desenvolvimento. Estudo atualmente na unidade Senac de Goiânia!
 
 Tenho conhecimentos basicos nas Linguagens, Python, JavaScript e C#.
+HTML, CSS, Javascript, React
 
 > Cursos na Área:
 - Programdor de Sistemas - Secac - 2024 - Concluido
